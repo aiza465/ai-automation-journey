@@ -1,0 +1,6 @@
+Aiza is a CS student in Pakistan studying in 6th semester.
+She is learning AI automation engineering over the summer.
+Her goal is to become an AI Engineer.
+She has built projects including Discord bots, LangChain agents, and web scrapers.
+She uses Groq API with LLaMA model for her AI projects.
+Her favorite tools are Python, LangChain, and ChromaDB.
